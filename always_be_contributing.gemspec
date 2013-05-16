@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email             = "joseph@josephholsten.com"
   spec.homepage          = "https://github.com/josephholsten/always_be_contributing"
   spec.description = <<-EOF
-    Always Be Contributing counts who has
+    Always Be Contributing counts who has been 
     contributing most to your organization on Github.
   EOF
   spec.extra_rdoc_files  = %w[ LICENSE README.rdoc ]
